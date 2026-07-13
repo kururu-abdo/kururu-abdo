@@ -5,7 +5,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="15%" src="[https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg](https://svg-viewer.fileformat.info/view.html/?url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fflutterio%2Fflutterio-ar21.svg&zoom=max&backUrl=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fflutterio%2Findex.html&backText=Return+to+VectorLogoZone&height=60&width=120)"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg](https://svg-viewer.fileformat.info/view.html/?url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fflutterio%2Fflutterio-ar21.svg&zoom=max&backUrl=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fflutterio%2Findex.html&backText=Return+to+VectorLogoZone&height=60&width=120)"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 </p>
 
